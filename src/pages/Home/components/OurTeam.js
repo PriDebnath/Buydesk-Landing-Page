@@ -7,7 +7,7 @@ function Member(props) {
   return (
     <div className="text-center ">
       <div>
-        <img src={memberImage} className="w-9/12 block m-auto" alt="member photo" />
+        <img src={memberImage} className="w-9/12 block m-auto" alt="member" />
         <h3>{name}</h3>
         <h3>{work}</h3>
       </div>
