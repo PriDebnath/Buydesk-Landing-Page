@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Section1() {
   return (
-    <div className="px-32 py-16">
+    <div className="px-32 pt-16 pb-8  ">
      
       <h2 className="text-sky-600  font-bold text-xl my-2">Features</h2>
       <h1 className="text-5xl font-semibold">Main Features Of Play</h1>
